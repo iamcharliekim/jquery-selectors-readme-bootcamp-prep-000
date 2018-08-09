@@ -1,4 +1,3 @@
 function paragraphSelector(){
-  var p = ${'p'}
-  return p;
+  return ${'p'}
 }
